@@ -1,3 +1,5 @@
+# NOTE: migrating to: [libaws](https://github.com/nathants/libaws)
+
 # cli-aws
 
 ## why
